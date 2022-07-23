@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="data_structure"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="msvc8"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/Mixed/Studys/Code/clion_c/data_structure/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\Mixed\Studys\Code\clion_c\data_structure\cmake-build-debug\Makefile VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f D:\Mixed\Studys\Code\clion_c\data_structure\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\Mixed\Studys\Code\clion_c\data_structure\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\Mixed\Studys\Code\clion_c\data_structure\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="data_structure">
+				<Option output="D:/Mixed/Studys/Code/clion_c/data_structure/cmake-build-debug/data_structure.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Mixed/Studys/Code/clion_c/data_structure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\Mixed\Studys\Code\clion_c\data_structure\cmake-build-debug\Makefile VERBOSE=1 data_structure"/>
+					<CompileFile command="nmake /NOLOGO /f D:\Mixed\Studys\Code\clion_c\data_structure\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\Mixed\Studys\Code\clion_c\data_structure\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\Mixed\Studys\Code\clion_c\data_structure\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="data_structure/fast">
+				<Option output="D:/Mixed/Studys/Code/clion_c/data_structure/cmake-build-debug/data_structure.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Mixed/Studys/Code/clion_c/data_structure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="D:\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\Mixed\Studys\Code\clion_c\data_structure\cmake-build-debug\Makefile VERBOSE=1 data_structure/fast"/>
+					<CompileFile command="nmake /NOLOGO /f D:\Mixed\Studys\Code\clion_c\data_structure\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\Mixed\Studys\Code\clion_c\data_structure\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\Mixed\Studys\Code\clion_c\data_structure\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/Mixed/Studys/Code/clion_c/data_structure/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\Mixed\Studys\Code\clion_c\data_structure\cmake-build-debug\Makefile VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f D:\Mixed\Studys\Code\clion_c\data_structure\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\Mixed\Studys\Code\clion_c\data_structure\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\Mixed\Studys\Code\clion_c\data_structure\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/Mixed/Studys/Code/clion_c/data_structure/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f D:\Mixed\Studys\Code\clion_c\data_structure\cmake-build-debug\Makefile VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f D:\Mixed\Studys\Code\clion_c\data_structure\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f D:\Mixed\Studys\Code\clion_c\data_structure\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f D:\Mixed\Studys\Code\clion_c\data_structure\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/Mixed/Studys/Code/clion_c/data_structure/find/Binary_Sort_Tree.cpp">
+			<Option target="data_structure"/>
+		</Unit>
+		<Unit filename="D:/Mixed/Studys/Code/clion_c/data_structure/graph/Adjacent_Matrix.cpp">
+			<Option target="data_structure"/>
+		</Unit>
+		<Unit filename="D:/Mixed/Studys/Code/clion_c/data_structure/graph/Adjacent_Meter.cpp">
+			<Option target="data_structure"/>
+		</Unit>
+		<Unit filename="D:/Mixed/Studys/Code/clion_c/data_structure/graph/Critical_Path.cpp">
+			<Option target="data_structure"/>
+		</Unit>
+		<Unit filename="D:/Mixed/Studys/Code/clion_c/data_structure/graph/Dijkstra.cpp">
+			<Option target="data_structure"/>
+		</Unit>
+		<Unit filename="D:/Mixed/Studys/Code/clion_c/data_structure/graph/Floyd.cpp">
+			<Option target="data_structure"/>
+		</Unit>
+		<Unit filename="D:/Mixed/Studys/Code/clion_c/data_structure/graph/Kruskal.cpp">
+			<Option target="data_structure"/>
+		</Unit>
+		<Unit filename="D:/Mixed/Studys/Code/clion_c/data_structure/graph/Minimun_Turning_Point_Problem.cpp">
+			<Option target="data_structure"/>
+		</Unit>
+		<Unit filename="D:/Mixed/Studys/Code/clion_c/data_structure/graph/Prim.cpp">
+			<Option target="data_structure"/>
+		</Unit>
+		<Unit filename="D:/Mixed/Studys/Code/clion_c/data_structure/graph/Topological_Sorting.cpp">
+			<Option target="data_structure"/>
+		</Unit>
+		<Unit filename="D:/Mixed/Studys/Code/clion_c/data_structure/linkedList/Joseph_arrayFlag.cpp">
+			<Option target="data_structure"/>
+		</Unit>
+		<Unit filename="D:/Mixed/Studys/Code/clion_c/data_structure/linkedList/Joseph_arrayLinked.cpp">
+			<Option target="data_structure"/>
+		</Unit>
+		<Unit filename="D:/Mixed/Studys/Code/clion_c/data_structure/linkedList/Joseph_circularLinkedList.cpp">
+			<Option target="data_structure"/>
+		</Unit>
+		<Unit filename="D:/Mixed/Studys/Code/clion_c/data_structure/linkedList/Polynomial_Array.cpp">
+			<Option target="data_structure"/>
+		</Unit>
+		<Unit filename="D:/Mixed/Studys/Code/clion_c/data_structure/linkedList/Polynomial_LinkedList.cpp">
+			<Option target="data_structure"/>
+		</Unit>
+		<Unit filename="D:/Mixed/Studys/Code/clion_c/data_structure/linkedList/noi_1.13.39.cpp">
+			<Option target="data_structure"/>
+		</Unit>
+		<Unit filename="D:/Mixed/Studys/Code/clion_c/data_structure/linkedList/studentManage.cpp">
+			<Option target="data_structure"/>
+		</Unit>
+		<Unit filename="D:/Mixed/Studys/Code/clion_c/data_structure/linkedList/test.cpp">
+			<Option target="data_structure"/>
+		</Unit>
+		<Unit filename="D:/Mixed/Studys/Code/clion_c/data_structure/main.cpp">
+			<Option target="data_structure"/>
+		</Unit>
+		<Unit filename="D:/Mixed/Studys/Code/clion_c/data_structure/queue/BankImitate.cpp">
+			<Option target="data_structure"/>
+		</Unit>
+		<Unit filename="D:/Mixed/Studys/Code/clion_c/data_structure/sort/Bubble_Sort.cpp">
+			<Option target="data_structure"/>
+		</Unit>
+		<Unit filename="D:/Mixed/Studys/Code/clion_c/data_structure/sort/Choose_Sort.cpp">
+			<Option target="data_structure"/>
+		</Unit>
+		<Unit filename="D:/Mixed/Studys/Code/clion_c/data_structure/sort/Heap_Sort.cpp">
+			<Option target="data_structure"/>
+		</Unit>
+		<Unit filename="D:/Mixed/Studys/Code/clion_c/data_structure/sort/Insert_Sort.cpp">
+			<Option target="data_structure"/>
+		</Unit>
+		<Unit filename="D:/Mixed/Studys/Code/clion_c/data_structure/sort/Quick_Sort.cpp">
+			<Option target="data_structure"/>
+		</Unit>
+		<Unit filename="D:/Mixed/Studys/Code/clion_c/data_structure/sort/Xier_Sort.cpp">
+			<Option target="data_structure"/>
+		</Unit>
+		<Unit filename="D:/Mixed/Studys/Code/clion_c/data_structure/square/Triple_Matrix_Order_Table.cpp">
+			<Option target="data_structure"/>
+		</Unit>
+		<Unit filename="D:/Mixed/Studys/Code/clion_c/data_structure/square/Triple_Matrix_Order_Table_Add_Multi.cpp">
+			<Option target="data_structure"/>
+		</Unit>
+		<Unit filename="D:/Mixed/Studys/Code/clion_c/data_structure/stack/Stack_Expression.cpp">
+			<Option target="data_structure"/>
+		</Unit>
+		<Unit filename="D:/Mixed/Studys/Code/clion_c/data_structure/stack/Stack_Homework2.cpp">
+			<Option target="data_structure"/>
+		</Unit>
+		<Unit filename="D:/Mixed/Studys/Code/clion_c/data_structure/stack/Stack_maze.cpp">
+			<Option target="data_structure"/>
+		</Unit>
+		<Unit filename="D:/Mixed/Studys/Code/clion_c/data_structure/stack/Stack_palindromeString.cpp">
+			<Option target="data_structure"/>
+		</Unit>
+		<Unit filename="D:/Mixed/Studys/Code/clion_c/data_structure/string/BF.cpp">
+			<Option target="data_structure"/>
+		</Unit>
+		<Unit filename="D:/Mixed/Studys/Code/clion_c/data_structure/string/KMP.cpp">
+			<Option target="data_structure"/>
+		</Unit>
+		<Unit filename="D:/Mixed/Studys/Code/clion_c/data_structure/tree/Eight_Queen.cpp">
+			<Option target="data_structure"/>
+		</Unit>
+		<Unit filename="D:/Mixed/Studys/Code/clion_c/data_structure/tree/Huff_Tree_Create.cpp">
+			<Option target="data_structure"/>
+		</Unit>
+		<Unit filename="D:/Mixed/Studys/Code/clion_c/data_structure/tree/Not_Recursion.cpp">
+			<Option target="data_structure"/>
+		</Unit>
+		<Unit filename="D:/Mixed/Studys/Code/clion_c/data_structure/tree/Thread_Binary_Tree.cpp">
+			<Option target="data_structure"/>
+		</Unit>
+		<Unit filename="D:/Mixed/Studys/Code/clion_c/data_structure/tree/Tree_Basic_Operation.cpp">
+			<Option target="data_structure"/>
+		</Unit>
+		<Unit filename="D:/Mixed/Studys/Code/clion_c/data_structure/tree/hanoi.cpp">
+			<Option target="data_structure"/>
+		</Unit>
+		<Unit filename="D:/Mixed/Studys/Code/clion_c/data_structure/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

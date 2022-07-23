@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.19)
+project(data_structure)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(data_structure main.cpp linkedList/test.cpp linkedList/studentManage.cpp linkedList/Joseph_circularLinkedList.cpp linkedList/Joseph_arrayFlag.cpp linkedList/Joseph_arrayLinked.cpp linkedList/noi_1.13.39.cpp linkedList/Polynomial_Array.cpp linkedList/Polynomial_LinkedList.cpp stack/Stack_Homework2.cpp stack/Stack_palindromeString.cpp stack/Stack_Expression.cpp stack/Stack_maze.cpp queue/BankImitate.cpp string/BF.cpp string/KMP.cpp square/Triple_Matrix_Order_Table.cpp square/Triple_Matrix_Order_Table_Add_Multi.cpp tree/hanoi.cpp tree/Eight_Queen.cpp tree/Tree_Basic_Operation.cpp tree/Thread_Binary_Tree.cpp tree/Not_Recursion.cpp tree/Huff_Tree_Create.cpp graph/Adjacent_Matrix.cpp graph/Adjacent_Meter.cpp graph/Minimun_Turning_Point_Problem.cpp graph/Prim.cpp graph/Kruskal.cpp graph/Dijkstra.cpp graph/Floyd.cpp graph/Topological_Sorting.cpp graph/Critical_Path.cpp find/Binary_Sort_Tree.cpp sort/Insert_Sort.cpp sort/Xier_Sort.cpp sort/Bubble_Sort.cpp sort/Quick_Sort.cpp sort/Choose_Sort.cpp sort/Heap_Sort.cpp)
